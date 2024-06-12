@@ -7,7 +7,6 @@ Este es un ejemplo de un contador simple creado con Vue.js. El objetivo de este 
 
 - Incrementa el contador
 - Decrementa el contador
-- Restablece el contador a cero
 
 ## Tecnologías utilizadas
 
